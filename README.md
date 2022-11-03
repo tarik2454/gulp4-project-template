@@ -1,4 +1,4 @@
-# build-gulp4
+# gulp4-project-template
 
 ## Подготовка нового проекта
 
