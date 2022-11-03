@@ -2,5 +2,6 @@
 
 ## Подготовка нового проекта
 
-1. Npm install.
-2. Gulp.
+1. npm install.
+2. gulp.
+3. gulp deploy - выгрузка деплоя проекта на github для gulp
